@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm student in [STRI](https://stri.net) at Toulouse.
+
+List of my git profiles:
+- https://github.com/louisroyer
+- https://gitlab.com/lroyer
+- https://git.flavien.ovh/louis_royer
+- https://gitlab.gnome.org/lroyer
+- https://framagit.org/lroyer
