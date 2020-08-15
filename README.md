@@ -21,3 +21,4 @@ List of my git profiles:
 - https://gitlab.gnome.org/lroyer
 - https://framagit.org/lroyer
 - https://git.leagueh.xyz/louisroyer
+- https://notabug.org/louisroyer
