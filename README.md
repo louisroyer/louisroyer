@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm student in [STRI](https://stri.net) at Toulouse.
+Student in [STRI](https://stri.net) at Toulouse.
 
 List of my git profiles:
 - https://github.com/louisroyer
