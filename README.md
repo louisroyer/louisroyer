@@ -22,4 +22,6 @@ List of my git profiles:
 - https://framagit.org/lroyer
 - https://notabug.org/louisroyer
 
+All my new commits since 2022-03-12 are signed with a PGP subkey of [`CE5288A058E278FD0ECD0072DA51DC0F63F0D32D`](https://github.com/louisroyer.gpg).
+
 Profile picture by Oren neu dag CC-BY-SA-3.0
