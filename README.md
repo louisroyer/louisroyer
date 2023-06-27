@@ -23,3 +23,13 @@ PhD student at [IRIT](https://irit.fr).
 All my new commits since 2022-03-12 are signed with a PGP subkey of <a href="https://github.com/louisroyer.gpg"><code>CE5288A058E278FD0ECD0072DA51DC0F63F0D32D</code></a>.
 
 Profile picture by Oren neu dag CC-BY-SA-3.0
+
+<details closed><summary>Pinned branches</summary>
+<ul>
+  <li>Stage UERANSIM
+    <ul>
+      <li><a href="https://github.com/louisroyer/test-mec/tree/stage-ueransim">Docker Compose Infrastructure</a>
+      <li><a href="https://github.com/louisroyer/UERANSIM/tree/handover">UERANSIM Handover</a>
+    </ul>
+</ul>
+</details>
