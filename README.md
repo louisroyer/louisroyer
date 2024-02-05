@@ -9,6 +9,7 @@ PhD student at [IRIT](https://irit.fr).
 
 </ul>
 </details>
+All my new commits since 2022-03-12 are signed with a PGP subkey of <a href="https://github.com/louisroyer.gpg"><code>CE5288A058E278FD0ECD0072DA51DC0F63F0D32D</code></a>.
 
 <details closed><summary>List of my git profiles (click to show)</summary>
 <ul>
@@ -20,13 +21,10 @@ PhD student at [IRIT](https://irit.fr).
   <li>https://notabug.org/louisroyer
 </ul>
 </details>
-All my new commits since 2022-03-12 are signed with a PGP subkey of <a href="https://github.com/louisroyer.gpg"><code>CE5288A058E278FD0ECD0072DA51DC0F63F0D32D</code></a>.
 
-
-<details closed><summary>Organization profile picture credits</summary>
+<details closed><summary>Profile picture credits</summary>
 <ul><li><a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li></ul>
 </details>
-
 <details closed><summary>Pinned branches</summary>
 <ul>
   <li>Stage UERANSIM
