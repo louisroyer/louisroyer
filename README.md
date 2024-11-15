@@ -1,5 +1,5 @@
 PhD student at [IRIT](https://irit.fr).
-<details open><summary>I use organizations to store my repositories by theme:</summary>
+<details open><summary>I use organizations to store my repositories by topic:</summary>
 <ul>
   <li><a href="https://github.com/nextmn">NextMN</a>: Experimental Mobile Network Components
   <li><a href="https://github.com/louisroyer-deb">louisroyer-deb</a>: Debian packaging
