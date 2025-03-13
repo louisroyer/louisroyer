@@ -25,12 +25,3 @@ All my new commits since 2022-03-12 are signed with a PGP subkey of <a href="htt
 <details closed><summary>Profile picture credits</summary>
 <ul><li><a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li></ul>
 </details>
-<details closed><summary>Pinned branches</summary>
-<ul>
-  <li>Stage UERANSIM
-    <ul>
-      <li><a href="https://github.com/louisroyer/test-mec/tree/stage-ueransim">Docker Compose Infrastructure</a>
-      <li><a href="https://github.com/louisroyer/UERANSIM/tree/handover">UERANSIM Handover</a>
-    </ul>
-</ul>
-</details>
